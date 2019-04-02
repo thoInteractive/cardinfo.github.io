@@ -1,0 +1,66 @@
+# Site
+name: 'CardInfo'
+description: 'Best site for credit card reviews, information, offers, tips & tricks in India'
+logo: ''
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+disqus: 'cardinfo'
+email: 'hello@cardinfo.in'
+mailchimplist: 'https://cardinfo.us20.list-manage.com/subscribe/post?u=ff4082dcfa8fb2e1fd3cd3901&amp;id=9eec8b2c19'
+
+include: ['_pages']
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-minifier
+
+jekyll-minifier:
+  compress_css: false
+
+authors:
+  pranav:
+    name: Pranav
+    site: https://pranavprakash.net
+    avatar: assets/images/pranav.jpg
+    bio: 'Hi, I am Pranav! I love to acquire, review and earn reward points/cashback from Credit Cards. Guiding people about benefits and optimal utilization of credit cards for years.'
+    email: hello@cardinfo.in
+    twitter: https://twitter.com/pranavpr
+
+# Defaults
+defaults:
+  # all posts
+  - scope:
+      path: '_posts'
+    values:
+      layout: post
+      author: pranav
+      avatar: /assets/images/pranav.jpg
+
+  # all pages
+  - scope:
+      path: '_pages'
+    values:
+      layout: page
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude:
+  [
+    README.markdown,
+    package.json,
+    grunt.js,
+    Gruntfile.js,
+    Gruntfile.coffee,
+    node_modules,
+  ]

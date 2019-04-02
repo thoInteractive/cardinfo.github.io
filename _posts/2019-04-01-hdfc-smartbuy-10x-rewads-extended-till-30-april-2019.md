@@ -2,7 +2,7 @@
 layout: post
 title: 'HDFC Smartbuy 10X rewards extended till 30 April 2019'
 categories: [HDFC, Card Offers]
-image: assets/images/hdfc-smartbuy-10X-rewards.jpg
+image: /assets/images/hdfc-smartbuy-10X-rewards.jpg
 tags: [featured]
 ---
 

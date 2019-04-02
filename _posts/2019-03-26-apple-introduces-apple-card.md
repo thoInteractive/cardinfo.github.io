@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple introduces Apple Card'
 categories: [Apple]
-image: assets/images/apple-credit-card.jpg
+image: /assets/images/apple-credit-card.jpg
 ---
 
 Apple, today at Apple’s "show time" services event, announced Apple Card credit card. Apple Card's value proposition lies in improving things about the credit card experience with simpler applications, no fees, lower interest rates, and better rewards.

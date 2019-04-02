@@ -2,7 +2,7 @@
 layout: post
 title: 'Yes Bank Credit Cards rewards reduced'
 categories: [Yes Bank]
-image: assets/images/yes-bank-credit-card-rewards-reduced.jpg
+image: /assets/images/yes-bank-credit-card-rewards-reduced.jpg
 ---
 
 It came to me as a shocker that reward rate on all Yes Bank credit cards except Yes Private has been reduced. I am summarizing the changes for Yes First variants below:

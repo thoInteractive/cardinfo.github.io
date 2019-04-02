@@ -2,7 +2,7 @@
 layout: post
 title: 'Is era of free UPI transactions over?'
 categories: [UPI, Kotak Mahindra]
-image: assets/images/upi.jpg
+image: /assets/images/upi.jpg
 ---
 
 UPI got huge push from government after demonetization of all Rs. 500 and Rs. 1000 banknotes on 8 November 2016. Most of the banks, though charge for NEFT/RTGS, UPI has been free, until recently, when Kotak Mahindra put a cap on number of free UPI transactions.

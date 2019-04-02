@@ -2,7 +2,7 @@
 layout: post
 title: 'Best Credit Cards of 2019 in India'
 categories: [Reviews]
-image: assets/images/best-credit-card-india-2019.png
+image: /assets/images/best-credit-card-india-2019.png
 tags: [featured]
 ---
 

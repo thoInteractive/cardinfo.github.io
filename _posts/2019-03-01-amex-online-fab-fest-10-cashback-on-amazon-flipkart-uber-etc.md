@@ -2,7 +2,7 @@
 layout: post
 title: 'Amex Online Fab Fest: 10% cashback on Amazon, Flipkart, Uber etc.'
 categories: [Amex, Card Offers]
-image: assets/images/amex-online-fab-fest-feb-2019.jpg
+image: /assets/images/amex-online-fab-fest-feb-2019.jpg
 tags: [featured]
 ---
 

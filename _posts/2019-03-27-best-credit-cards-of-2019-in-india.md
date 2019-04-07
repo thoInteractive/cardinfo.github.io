@@ -6,98 +6,249 @@ image: /assets/images/best-credit-card-india-2019.png
 tags: [featured]
 ---
 
-Looking for best credit card in India or wondering the one which is in your wallet is best or or not? Look no further as you have stumbled upon the correct blog post.
+Looking for best credit card in India or wondering the one which is in your wallet is best or or not? Look no further as you have stumbled upon the correct webpage.
 
-I have analysed 100+ credit cards available in India as of today and compiled a list of 20+ best credit cards based on various user segments. Note that there is no one card which suites all as spending pattern, income range, willingness to pay joining fee etc. varies from person to person. So without further ado, let's begin!
+I have analysed 100+ credit cards available in India as of today and compiled a list of 15 best credit cards based on various user segments. Note that there is no one card which suites all as spending pattern, income range, willingness to pay joining fee etc. varies from person to person. So without further ado, let's begin!
 
 ## Best Lifestyle Credit Cards
+
+Lifestyle cards are general purpose cards suitable for all types of spends e.g. dining, shopping, bill payments etc. These cards are approved easily and have low income range criteria.
 
 #### 1. Amazon Pay ICICI Bank Credit Card
 
 ![Amazon Pay ICICI Bank Credit Card](/assets/images/amazon-pay-icici-bank-credit-card.png#center)
 
+Amazon Pay ICICI Bank Credit Card gives 5% cashback on Amazon if you're a prime member which is a sweet deal if you spend a lot on Amazon. However at this point of time, this card is available by invitation only. Your chance for invitation increases if you hold an existing credit card from ICICI. Below are the main highlights of this card:
+
+- Joining Fee: Nil
+- Renewal Fee: Life time free
+- Reward Rate:
+  - 5% for Amazon Prime customers and 3% for others on Amazon
+  - 2% on paying through Amazon Pay
+  - 1% on other spends
+- Rewards are credited as Amazon Pay cashback each month after statement generation
+- Apply [here](https://www.amazon.in/cbcc/marketpage)
+
 #### 2. American Express Membership Rewards Credit Card
 
 ![American Express Membership Rewards Credit Card](/assets/images/american-express-membership-rewards-credit-card.png#center)
 
-#### 3. Standard Chartered Manhattan
+American Express Membership Rewards Credit Card is an entry level card from Amex with low joining and renewal fees unlike other cards. Though acceptability of Amex is increasing day by day in India, still it's not as good as Visa/MasterCard. The best thing about Amex is their world class customer service and when you talk to them, they make you feel really special. Below are the main highlights of this card:
 
-![Standard Chartered Manhattan](/assets/images/standard-chartered-manhattan.jpg#center)
+- Joining Fee: Nil if applied via [referral link](http://amex.in/refer/pranap9yzB?CPID=999999544), Rs. 1,000 otherwise
+- Renewal Fee: They generally waive off the charges if your spend on card is substantial.
+  - Via referral: Rs. 0 if total spends greater than Rs. 1,50,000, Rs. 750 if total spends greater than Rs. 90,000, Rs. 1,500 otherwise
+  - Regular: Rs. 0 if total spends greater than Rs. 1,50,000, Rs. 2,250 if total spends greater than Rs. 90,000, Rs. 4,500 otherwise
+- Reward Rate:
+  - 0.5% if points are converted to statement credit
+  - 1000 bonus points on for using Card 4 times on transactions of Rs. 1,000 and above every month
+  - 18 Karat Gold Collection: 18000 points can be redeemed for statement credit worth Rs. 7,500, Amazon Gift Card worth Rs. 8,000 or Tanishq Voucher worth Rs. 7,500
+  - 24 Karat Gold Collection: 24000 points can be redeemed for statement credit worth Rs. 10,000, American Express Domestic Travel Online voucher worth Rs. 11,000 or Bose Sound Link Color II Bluetooth Speaker
+- Apply [here](http://amex.in/refer/pranap9yzB?CPID=999999544)
 
-#### 4. SBI Prime
-
-![SBI Prime](/assets/images/sbi-prime-credit-card.png#center)
-
-#### 5. HDFC Regalia First
+#### 3. HDFC Regalia First Credit Card
 
 ![HDFC Regalia First](/assets/images/hdfc-regalia-first-credit-card.jpg#center)
 
+HDFC Regalia First Credit Card is an entry level premium card from HDFC. Mostly it's issued for free if your salary account is with HDFC and gross monthly income is greater than Rs. 40,000 per month. Below are the main highlights of this card:
+
+- Joining Fee: Rs. 1,000, usually free
+- Renewal Fee: Rs. 1,000, usually waived off
+- Reward Rate: 1% (normal spends) - 10% (spends on [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) portal)
+- Lounge Access:
+  - International: 3 international lounge access per year using Priority Pass
+  - Domestic: 8 domestic lounge access per year using Visa/MasterCard Lounge program
+- Apply [here](https://leads.hdfcbank.com/applications/new_webforms/apply/mobile/Credit-Card_TU.aspx)
+
+#### 4. Standard Chartered Manhattan Credit Card
+
+![Standard Chartered Manhattan Credit Card](/assets/images/standard-chartered-manhattan.jpg#center)
+
+Standard Chartered Manhattan Credit Card provides 5% cashback on grocery spends at supermarkets like DMart, Big Bazaar, More etc. Below are the main highlights of this card:
+
+- Joining Fee: Rs. 999, get BookMyShow vouchers worth Rs. 2,000 if you do a transaction within 90 days of card setup
+- Renewal Fee: Rs. 999, waived on spending Rs 1,20,000 in a year
+- Reward Rate:
+  - 5% cashback on minimum transaction of Rs. 1000 at supermarkets capped to Rs. 150 per transaction & Rs. 500 per month
+  - 3x reward points per Rs. 150 spent on other purchases equivalent to ~0.5%, points can be redeemed from online rewards catalogue only
+- [Special Offers](https://www.sc.com/in/credit-cards/offers/)
+- Apply [here](https://apply.standardchartered.co.in/credit-card?selectedCardId=4)
+
+#### 5. Citi Cashback Credit Card
+
+![Citi Cashback Credit Card](/assets/images/citi-cashback-credit-card.jpg#center)
+
+If you love cashback then this card is for you. Citi Cashback Credit Card provides cashback for all spends which are automatically credited to your statement. Below are the main highlights of this card:
+
+- Joining Fee: Rs. 500
+- Renewal Fee: Rs. 500
+- Reward Rate:
+  - 5% cashback on movie ticket purchases, telephone bill payments & utility bill payments via Citibank Online Bill Pay
+  - 0.5% cashback on other spends
+- Cashback is automatically credited as statement credit in multiples of Rs. 500
+- 20% cashback on [BigBasket](https://www.bigbasket.com/citibank/) on minimum purchase of Rs. 2,000, maximum cashback Rs. 500 per month, valid during the first 5 days of the month
+- Apply [here](https://www.online.citibank.co.in/portal/newgen/cards/tab/apply-now.htm?campaign_id=CardNTB1&referralCode=Pr51CC01&Section=MGM)
+
 ## Best Premium Credit Cards
 
-#### 1. HDFC Diners Club Clubmiles
+Premium cards are a notch above life style cards. These cards, not only have higher reward rate, but they provide access to other facilities like concierge services, dedicated support line, domestic and international lounge access etc.
 
-![HDFC Diners Clubmiles](/assets/images/hdfc-diners-clubmiles.png#center)
+#### 1. HDFC Diners Club Clubmiles Credit Card
 
-#### 2. Yes Bank First Preferred
+![HDFC Diners Club Clubmiles Credit Card](/assets/images/hdfc-diners-clubmiles.png#center)
 
-![Yes Bank First Preferred](/assets/images/yes-first-preferred-credit-card.jpg#center)
+HDFC Diners Club Clubmiles Credit Card has decent reward rate of 1.3% and with [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) 10X program it peaks to 13%. Income criteria for this card is Rs. 30,000 per month (net income) which is pretty low. Below are the main highlights of this card:
 
-#### 3. HDFC Regalia
+- Joining Fee: Rs. 1,000, usually free
+- Renewal Fee: Rs. 1,000, usually waived off
+- Reward Rate: 1.3% (normal spends) - 13% (spends on [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) portal)
+- Lounge access : 6 lounge access per year including domestic and international
+- Apply [here](https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Diners/index.aspx)
 
-![HDFC Regalia](/assets/images/hdfc-regalia-credit-card.png#center)
+#### 2. HDFC Regalia Credit Card
 
-#### 4. Indusind Iconia
+![HDFC Regalia Credit Card](/assets/images/hdfc-regalia-credit-card.png#center)
 
-![Indusind Icoia](/assets/images/indusind-iconia-amex-credit-card.png#center)
+HDFC Regalia is upgraded version of HDFC Regalia First. It comes with a host of benefits like lower foreign currency markup, Priority Pass membership etc. You need to have a monthly income more than Rs. 1,20,000 to get this card. Below are the main highlights of this card:
 
-#### 5. SBI Elite Credit Card
+- Joining Fee: Rs 2,500, generally free
+- Renewal Fee: Rs 2,500, usually waived off
+- Reward Rate: 1.2% (normal spends) - 12% (spends on [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) portal)
+- Lounge Access:
+  - International: 6 international lounge access per year using Priority Pass (including add-on card member)
+  - Domestic: 12 domestic lounge access per year using Visa/MasterCard Lounge program
+- Lower foreign currency markup of 2%
+- Other benefits: Club Vistara Silver membership, Zomato Gold membership, travel concierge, insurance cover etc.
+- Apply [here](https://leads.hdfcbank.com/applications/new_webforms/apply/mobile/Credit-Card_TU.aspx)
 
-![SBI Elite Credit Card](/assets/images/sbi-elite-credit-card.png#center)
+#### 3. Indusind Iconia Credit Card (Amex variant)
 
-#### Best Super Premium Credit Cards
+![Indusind Iconia Credit Card](/assets/images/indusind-iconia-amex-credit-card.png#center)
 
-#### 1. HDFC Infinia
+If you spend a lot in weekends, this is the card for you. It provides accelerated rewards during weekends which you can redeem for statement credit. This card also gives you access to access to domestic lounge. Below are the main highlights of this card:
 
-![HDFC Infinia](/assets/images/hdfc-bank-infinia-credit-card.jpg#center)
+- Joining Fee: Rs 10,000, welcome vouchers of equivalent amount
+- Renewal Fee: Nil
+- Reward Rate: 1.5% on weekdays, 2% on weekends
+- Lounge Access: 2 domestic lounge access per quarter using American Express Lounge Program
+- Other benefits: Golf, Travel Concierge, Automobile Assistance, Insurance Cover, Buy 1 Get 1 on BookMyShow etc.
+- Call 1860 267 7777 to apply
 
-#### 2. HDFC Diners Club Black
+#### 4. SBI Prime Credit Card
 
-![HDFC Diners Club Black](/assets/images/hdfc-diners-club-black-credit-card.png#center)
+![SBI Prime Credit Card](/assets/images/sbi-prime-credit-card.png#center)
 
-#### 3. Standard Chartered Ultimate
+SBI Prime Credit Card gives you 5% back on standing instructions of Utility Bills payments. It also provides access to lounge, both in India and abroad. Below are the main highlights of this card:
 
-![Standard Chartered Ultimate](/assets/images/standard-chartered-ultimate-credit-card.jpg#center)
+- Joining Fee: Rs. 2,999, get welcome gift of Rs. 3,000
+- Renewal Fee: Rs. 2,999, waived on spending Rs 3,00,000 in a year
+- Reward Rate:
+  - 5% back on standing instructions of Utility Bills payments
+  - 3.75% back on Bigbasket
+  - 2.5% on Dining, Groceries, Departmental stores and Movies
+  - 0.5% on other spends
+- Lounge access
+  - International: 4 complimentary visits per year to International Priority Pass Lounges, outside India (max. 2 visits per quarter)
+  - Domestic: 8 complimentary visits per year to Domestic VISA/Mastercard Lounges in India (max. 2 visits per quarter)
+- Apply [here](https://www.sbicard.com/en/eapply/eapplyform.page?path=personal/credit-cards/rewards/sbi-card-prime.dcr)
 
-#### 4. Citi Prestige
+#### 5. Yes First Preferred Credit Card
+
+![Yes First Preferred Credit Card](/assets/images/yes-first-preferred-credit-card.jpg#center)
+
+Yes Bank is relatively new player in credit card market at initially they were very aggressive in issuing cards. Lately they have become dormant and even [reduced the reward rate](/yes-bank-credit-cards-rewards-reduced/). However this is still a good card owing to decent reward rate and access to domestic and international lounges. Easiest way to get this card is to get it on Card-to-Card basis with limit on existing card above Rs. 3,00,000. You can get this card and later on (after 6 months) upgrade to Yes First Exclusive Credit Card. Below are the main highlights of this card:
+
+- Joining Fee: Rs 2,500, generally free
+- Renewal Fee: Rs 2,500, usually waived off
+- Reward Rate: 2% on Travel Agencies & Tour Operators, Domestic Airlines and Dining, 1% on all other categories
+- Lounge Access
+  - International: 4 international lounge access per year using Priority Pass
+  - Domestic: 3 per quarter domestic lounge access using MasterCard Lounge Access program
+- Other benefits: Golf, Concierge & Automobile Assistance, Insurance Coverage
+- Apply [here](https://apply.yesbank.in/credit-card/first-preferred-credit-card)
+
+## Best Super Premium Credit Cards
+
+Super Premium cards are hard to get and require really high NRV with issuing banks along with flawless credit history. These cards provide you higher credit limits, best reward rate, unlimited lounge access, golf privileges, exclusive memberships, insurance cover etc.
+
+#### 1. HDFC Infinia Credit Card
+
+![HDFC Infinia Credit Card](/assets/images/hdfc-bank-infinia-credit-card.jpg#center)
+
+HDFC Infinia Credit Card is for the elitist and is invite only card. This card comes with unique No Pre-set spending limit feature and best reward rate of 3.3% on all spends. Below are the main highlights of this card:
+
+- Joining Fee: Rs 10,000, reward points of equivalent value are credited
+- Renewal Fee: Rs 10,000, waived off on spending Rs. 8,00,000 in a year
+- Reward Rate: 3.3% (normal spends) - 33% (spends on [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) portal)
+- Lounge Access:
+  - International: Unlimited international lounge access using Priority Pass (add-on card members can avail by producing their Priority Pass)
+  - Domestic: 4 complimentary domestic lounge access per quarter through Infinia Visa/Mastercard Card Lounge program
+- Lower foreign currency markup of 2%
+- Other benefits: Personal concierge service, Golf Programme, Club Marriott Membership, Priority Customer Service etc.
+
+#### 2. HDFC Diners Club Black Credit Card
+
+![HDFC Diners Club Black Credit Card](/assets/images/hdfc-diners-club-black-credit-card.png#center)
+
+HDFC Diners Club Black Credit Card with it's [10X reward point](https://www.hdfcbankdinersclub.com/privilege) is certainly one the best credit cards in India at this point of time. Even without 10X reward point, it has reward rate of 3.3% on all spends which is quite good. To get this card you need to have net monthly income more than Rs. 1,75,000 per month. Below are the main highlights of this card:
+
+- Joining Fee: Rs 5,000, reward points of equivalent value are credited
+- Renewal Fee: Rs 5,000, waived off on spending Rs. 5,00,000 in a year
+- Reward Rate: 3.3% (normal spends) - 33% (spends on [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) portal)
+- Lounge Access: Unlimited Airport lounge access to 700+ lounges in India and worldwide for primary card holder only
+- Lower foreign currency markup of 2%
+- Other benefits: Exclusive 24/7 Concierge Services, Golf Program, Insurance Cover etc.
+- Apply [here](https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Diners/index.aspx)
+
+#### 3. Citi Prestige Credit Card
 
 ![Citi Prestige](/assets/images/citi-prestige-credit-card.jpg#center)
 
-#### 5. Yes Bank First Exclusive
+Citi Prestige Credit Card is best for those who travel a lot. This card entitles you for airport lounge access, luxury airport transfers, extra hotel nights, meet and assist services and accelerated air miles program. To get this card, you need to have very good relationship with Citi Bank and holding a Citigold/Citigold Private account will go a long way. Below are the main highlights of this card:
 
-![Yes Bank First Exclusive](/assets/images/yes-first-exclusive-credit-card.jpg#center)
+- Joining Fee & Renewal Fee: Rs 20,000 (Free for Citigold & Citigold Private Clients), Air miles and Taj/ITC vouchers of equivalent amount are provided
+- Reward Rate:
+  - 1% on domestic, 2% on international if redeemed for statement credit
+  - 4% on domestic, 8% on international if redeemed for Air Miles
+- Lounge Access: Unlimited domestic and international airport lounge access for both primary and add-on card members
+- Stay 4 consecutive nights and get 4th night complimentary at participating hotels
+- Complimentary Meet & Assist service and one-way luxury airport transfer to or from airport, twice per calendar year
+- Other benefits: Golf Program, Taj Epicure Plus Plan & InnerCircle Silver membership, Overseas Medical and Air Accident Insurance Cover etc.
 
-## Other Credit Cards
+#### 4. Standard Chartered Ultimate Credit Card
 
-#### 1. American Express Platinum Travel Credit Card
+![Standard Chartered Ultimate](/assets/images/standard-chartered-ultimate-credit-card.jpg#center)
 
-![American Express Platinum Travel Credit Card](/assets/images/american-express-platinum-travel-credit-card.png#center)
+Standard Chartered Ultimate Credit Card is the latest offering from Standard Chartered. With a lucrative reward rate of 3.3% with option to redeem for Amazon vouchers, this is certainly best for not-so-frequent travellers. To get this card, you should have annual income of more than Rs. 24,00,000 or if you have an existing SC credit card then the limit should be more than Rs. 3,00,000. Below are the main highlights of this card:
 
-#### 2. RBL Movies and More
+- Joining Fee: Rs. 5,000
+- Renewal Fee: Rs. 5,000
+- Welcome Bonus: Rs. 10,000 cashback from MakeMyTrip
+- Reward Rate: 3.3%, can be redeemed for gift vouchers of Amazon, Flipkart, Lifestyle, Big Bazaar, MakeMyTrip, BookMyShow etc. (depending upon availability on their reward redemption website)
+- Lounge Access:
+  - International: 1 free per month using Priority Pass if card spend in the last month exceeds Rs. 20,000
+  - Domestic: 4 per quarter through Visa/Mastercard Card Lounge program
+- Cashback of 5% at duty free store limited to Rs. 1,000 per month
+- Other benefits: Golf, Dineout membership, Concierge services, Travel & Air Accident insurance cover etc.
+- Apply [here](https://apply.standardchartered.co.in/credit-card?selectedCardId=11)
 
-![RBL Movies and More Credit Card](/assets/images/rbl-movies-and-more-credit-card.png#center)
+#### 5. Yes First Exclusive Credit Card
 
-#### 3. SBI Simply Click
+![Yes First Exclusive Credit Card](/assets/images/yes-first-exclusive-credit-card.jpg#center)
 
-![SBI Simply Click](/assets/images/sbi-smmply-click-credit-card.png#center)
+Yes First Exclusive is one level higher than Yes First Preferred Credit Card. It comes with a reward rate of 1.5%-3% depending on spend categories and provides unlimited domestic and international lounge access to both primary and secondary card holders. Below are the main highlights of this card:
 
-#### 4. Citi PremierMiles
+- Joining Fee: Rs. 10,000, 50,000 Reward Points (~ Rs. 12,500) credited after first transaction
+- Renewal Fee: Rs. 10,000, 40,000 Reward Points credited (~ Rs. 10,000) after renewal
+- Reward Rate: 3% on Travel Agencies & Tour Operators, Domestic Airlines and Dining, 1.5% on all other categories
+- Lounge Access
+  - Domestic: Unlimited for both primary and add-on using MasterCard Lounge Program
+  - International: Unlimited for both primary and add-on using Priority Pass Membership
+- Other benefits: Golf, TAJ InnerCircle Epicure Membership, Concierge Assistance, Automobile Assistance, Travel & Air Accident insurance cover etc.
+- Apply [here](https://apply.yesbank.in/credit-card/first-exclusive-credit-card)
 
-![Citi PremierMiles](/assets/images/citi-premiermiles-credit-card.png#center)
+## Bottomline
 
-#### 5. Citi Cashback
+As you can see, there is no one credit card to rule them all. Each card comes with their unique benefits and are suited for a particular spending pattern. Analyse your life style and get the card which can give maximum reward rate. You can have multiple cards too, but make sure you have a strategy to reap the maximum benefits out of them.
 
-![Citi Cashback ](/assets/images/citi-cashback-credit-card.jpg#center)
-
-#### 6. HSBC Visa Platinum
-
-![HSBC Visa Platinum](/assets/images/hsbc-visa-plantinum-credit-card.jpg#center)
+_Do you think any other card should be part of this list which I missed? Let me know in comments below._

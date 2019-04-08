@@ -8,7 +8,7 @@ tags: [featured]
 
 Amex is back with **O.F.F (Online Fab Fest)** where you can enjoy 10% cashback at a host of partners! These partners include Amazon, Flipkart, Myntra, Ola, Uber, Uber Eats, BigBasket, Grofers & BookMyShow.
 
-![partners]({{ site.baseurl }}/assets/images/amex-online-fab-fest-feb-2019-partners.png#center)
+![Amex 10% off partners]({{ site.baseurl }}/assets/images/amex-online-fab-fest-feb-2019-partners.png#center)
 
 ### Offer Details
 

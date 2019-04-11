@@ -2,7 +2,7 @@
 layout: post
 title: 'HDFC Diners Club Credit Cards 10X rewards extended till June 2019'
 categories: [HDFC, Card Offers]
-image: /assets/images/hdfc-diners-club-credit-card-10x-rewards.png
+image: /assets/images/hdfc-diners-club-credit-card-10x-rewards.jpg
 tags: [featured]
 ---
 

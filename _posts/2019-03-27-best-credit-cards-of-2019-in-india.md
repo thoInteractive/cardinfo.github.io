@@ -19,7 +19,7 @@ Lifestyle cards are general purpose cards suitable for all types of spends e.g. 
 
 #### 1. Amazon Pay ICICI Bank Credit Card
 
-![Amazon Pay ICICI Bank Credit Card](/assets/images/amazon-pay-icici-bank-credit-card.png#center)
+![Amazon Pay ICICI Bank Credit Card](/assets/images/amazon-pay-icici-bank-credit-card.jpg#center)
 
 Amazon Pay ICICI Bank Credit Card gives 5% cashback on Amazon if you're a prime member which is a sweet deal if you spend a lot on Amazon. However at this point of time, this card is available by invitation only. Your chance for invitation increases if you hold an existing credit card from ICICI. Below are the main highlights of this card:
 
@@ -34,7 +34,7 @@ Amazon Pay ICICI Bank Credit Card gives 5% cashback on Amazon if you're a prime 
 
 #### 2. American Express Membership Rewards Credit Card
 
-![American Express Membership Rewards Credit Card](/assets/images/american-express-membership-rewards-credit-card.png#center)
+![American Express Membership Rewards Credit Card](/assets/images/american-express-membership-rewards-credit-card.jpg#center)
 
 American Express Membership Rewards Credit Card is an entry level card from Amex with low joining and renewal fees unlike other cards. Though acceptability of Amex is increasing day by day in India, still it's not as good as Visa/MasterCard. The best thing about Amex is their world class customer service and when you talk to them, they make you feel really special. Below are the main highlights of this card:
 
@@ -98,7 +98,7 @@ Premium cards are a notch above life style cards. These cards, not only have hig
 
 #### 1. HDFC Diners Club Clubmiles Credit Card
 
-![HDFC Diners Club Clubmiles Credit Card](/assets/images/hdfc-diners-clubmiles.png#center)
+![HDFC Diners Club Clubmiles Credit Card](/assets/images/hdfc-diners-clubmiles.jpg#center)
 
 HDFC Diners Club Clubmiles Credit Card has decent reward rate of 1.3% and with [HDFC SmartBuy](https://offers.smartbuy.hdfcbank.com) 10X program it peaks to 13%. Income criteria for this card is Rs. 30,000 per month (net income) which is pretty low. Below are the main highlights of this card:
 
@@ -110,7 +110,7 @@ HDFC Diners Club Clubmiles Credit Card has decent reward rate of 1.3% and with [
 
 #### 2. HDFC Regalia Credit Card
 
-![HDFC Regalia Credit Card](/assets/images/hdfc-regalia-credit-card.png#center)
+![HDFC Regalia Credit Card](/assets/images/hdfc-regalia-credit-card.jpg#center)
 
 HDFC Regalia is upgraded version of HDFC Regalia First. It comes with a host of benefits like lower foreign currency markup, Priority Pass membership etc. You need to have a monthly income more than Rs. 1,20,000 to get this card. Below are the main highlights of this card:
 
@@ -126,7 +126,7 @@ HDFC Regalia is upgraded version of HDFC Regalia First. It comes with a host of 
 
 #### 3. Indusind Iconia Credit Card (Amex variant)
 
-![Indusind Iconia Credit Card](/assets/images/indusind-iconia-amex-credit-card.png#center)
+![Indusind Iconia Credit Card](/assets/images/indusind-iconia-amex-credit-card.jpg#center)
 
 If you spend a lot in weekends, this is the card for you. It provides accelerated rewards during weekends which you can redeem for statement credit. This card also gives you access to access to domestic lounge. Below are the main highlights of this card:
 
@@ -139,7 +139,7 @@ If you spend a lot in weekends, this is the card for you. It provides accelerate
 
 #### 4. SBI Prime Credit Card
 
-![SBI Prime Credit Card](/assets/images/sbi-prime-credit-card.png#center)
+![SBI Prime Credit Card](/assets/images/sbi-prime-credit-card.jpg#center)
 
 SBI Prime Credit Card gives you 5% back on standing instructions of Utility Bills payments. It also provides access to lounge, both in India and abroad. Below are the main highlights of this card:
 

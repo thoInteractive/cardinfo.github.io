@@ -2,7 +2,7 @@
 layout: post
 title: 'Best Credit Cards of 2019 in India'
 categories: [Reviews]
-image: /assets/images/best-credit-card-india-2019.png
+image: /assets/images/best-credit-card-india-2019.jpg
 tags: [featured]
 ---
 
@@ -11,7 +11,8 @@ Looking for best credit card in India or wondering the one which is in your wall
 I have analysed 100+ credit cards available in India as of today and compiled a list of 15 best credit cards based on various user segments. Note that there is no one card which suites all as spending pattern, income range, willingness to pay joining fee etc. varies from person to person. So without further ado, let's begin!
 
 * TOC
- {:toc}
+{:toc}
+
 ## Best Lifestyle Credit Cards
 
 Lifestyle cards are general purpose cards suitable for all types of spends e.g. dining, shopping, bill payments etc. These cards are approved easily and have low income range criteria.

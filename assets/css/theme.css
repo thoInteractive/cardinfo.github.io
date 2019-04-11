@@ -47,6 +47,9 @@ a.text-dark:hover {
   .display-3 {
     font-size: 3.5rem;
   }
+  .article-post {
+    padding: 1rem;
+  }
 }
 @media (max-width: 767.98px) {
   .display-3 {

@@ -839,3 +839,10 @@ img[src*='#center'] {
 .post-element {
   font-family: 'Segoe UI', 'Helvetica Neue', 'Arial';
 }
+#markdown-toc {
+  font-family: 'Segoe UI', 'Helvetica Neue', 'Arial';
+  font-size: initial;
+  width: fit-content;
+  background-color: #e8f3ec !important;
+  padding: 3rem !important;
+}

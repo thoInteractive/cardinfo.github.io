@@ -9,7 +9,7 @@ disqus: 'cardinfo'
 email: 'hello@cardinfo.in'
 mailchimplist: 'https://cardinfo.us20.list-manage.com/subscribe/post?u=ff4082dcfa8fb2e1fd3cd3901&amp;id=9eec8b2c19'
 google_analytics: 'UA-137524891-1'
-google_adsense: 'ca-pub-3053618755664055'
+google_adsense: 'ca-pub-2121932395681281'
 
 include: ['_pages']
 permalink: /:title/

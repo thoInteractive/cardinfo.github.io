@@ -22,10 +22,7 @@ Amex is back with **O.F.F (Online Fab Fest)** where you can enjoy 10% cashback a
 
 When I tried to register my Amex Gold Charge card for above offer I got an error message saying _"Unfortunately this campaign is by invitation only."_ I was little perplex as I received the invitation email. However when I looked at the email carefully, the offer was for my Amex Gold Credit Card.
 
-<div class="alert alert-primary post-element" role="alert">
-    <span class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"><i class="fas fa-info"></i>
-    </span> If you hold multiple Amex cards, register the card whose last five digits match with the one mentioned in email. 
-</div>
+{% include tip.html tip="If you hold multiple Amex cards, register the card whose last five digits match with the one mentioned in email."%}
 
 After entering the details of my Amex Gold Credit Card, I was able to register for the offer successfully. Earlier in past, I was able to register for offers even though I didn't receive the email. However now it seems Amex has put stricter norms in place for availing their offers.
 

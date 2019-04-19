@@ -849,3 +849,15 @@ img[src*='#center'] {
   background-color: #e8f3ec !important;
   padding: 3rem !important;
 }
+.star {
+  color: orange;
+}
+.star-rating {
+  border-radius: 0.5rem;
+  padding: 1rem;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+  font-family: 'Segoe UI', 'Helvetica Neue', 'Arial';
+}

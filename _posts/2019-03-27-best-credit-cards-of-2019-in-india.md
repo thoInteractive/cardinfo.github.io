@@ -31,6 +31,8 @@ Amazon Pay ICICI Bank Credit Card gives 5% cashback on Amazon if you're a prime 
 - Rewards are credited as Amazon Pay cashback each month after statement generation
 - Apply [here](https://www.amazon.in/cbcc/marketpage)
 
+Read the detailed review [here](/amazon-pay-icici-bank-credit-card-review/).
+
 #### 2. American Express Membership Rewards Credit Card
 
 ![American Express Membership Rewards Credit Card](/assets/images/american-express-membership-rewards-credit-card.jpg#center)

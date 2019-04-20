@@ -10,14 +10,128 @@ append: '<i class="fas fa-star-half-alt star"></i>' %} {% endfor %} {% for i in
 (1..num_empty_stars) %} {% assign stars = stars | append: '<i
   class="far fa-star star"
 ></i
->' %} {% endfor %}
+>' %} {% endfor %} {% assign num_full_stars = include.rewards | floor %} {%
+assign temp = include.rewards | minus: num_full_stars %}{% if temp >= 0.5 %} {%
+assign num_half_stars = 1 %} {% else %} {% assign num_half_stars = 0 %} {% endif
+%} {% assign num_empty_stars = 5 | minus: num_full_stars | minus: num_half_stars
+%} {% for i in (1..num_full_stars) %} {% assign rewards_stars = rewards_stars |
+append: '<i class="fas fa-star star"></i>' %} {% endfor %} {% for i in
+(1..num_half_stars) %} {% assign rewards_stars = rewards_stars | append: '<i
+  class="fas fa-star-half-alt star"
+></i
+>' %} {% endfor %} {% for i in (1..num_empty_stars) %} {% assign rewards_stars =
+rewards_stars | append: '<i class="far fa-star star"></i>' %} {% endfor %} {%
+assign num_full_stars = include.fees | floor %} {% assign temp = include.fees |
+minus: num_full_stars %}{% if temp >= 0.5 %} {% assign num_half_stars = 1 %} {%
+else %} {% assign num_half_stars = 0 %} {% endif %} {% assign num_empty_stars =
+5 | minus: num_full_stars | minus: num_half_stars %} {% for i in
+(1..num_full_stars) %} {% assign fees_stars = fees_stars | append: '<i
+  class="fas fa-star star"
+></i
+>' %} {% endfor %} {% for i in (1..num_half_stars) %} {% assign fees_stars =
+fees_stars | append: '<i class="fas fa-star-half-alt star"></i>' %} {% endfor %}
+{% for i in (1..num_empty_stars) %} {% assign fees_stars = fees_stars | append:
+'<i class="far fa-star star"></i>' %} {% endfor %} {% assign num_full_stars =
+include.features | floor %} {% assign temp = include.features | minus:
+num_full_stars %}{% if temp >= 0.5 %} {% assign num_half_stars = 1 %} {% else %}
+{% assign num_half_stars = 0 %} {% endif %} {% assign num_empty_stars = 5 |
+minus: num_full_stars | minus: num_half_stars %} {% for i in (1..num_full_stars)
+%} {% assign features_stars = features_stars | append: '<i
+  class="fas fa-star star"
+></i
+>' %} {% endfor %} {% for i in (1..num_half_stars) %} {% assign features_stars =
+features_stars | append: '<i class="fas fa-star-half-alt star"></i>' %} {%
+endfor %} {% for i in (1..num_empty_stars) %} {% assign features_stars =
+features_stars | append: '<i class="far fa-star star"></i>' %} {% endfor %}
 <div class="star-rating bg-lightblue">
-  <span
-    class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"
-    ><i class="fas fa-bullhorn"></i>
-  </span>
-  <strong>CardInfo Rating:</strong> <span>{{ stars }}</span
-  ><span class="badge badge-primary ml-2">{{ include.rating }}/5</span>
+  <div class="mb-2">
+    <span
+      class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"
+      ><i class="fas fa-rupee-sign"></i>
+    </span>
+    <strong>Fees </strong>
+    <span class="ml-2 float-right"
+      ><span>{{ fees_stars }}</span
+      ><span
+        class="badge {% if include.fees < 2 %}
+      badge-danger
+    {% endif %}
+    {% if include.fees >= 2  and include.fees < 4 %}
+      badge-warning
+    {% endif %}
+    {% if include.fees >= 4 %}
+      badge-primary
+    {% endif %} ml-2"
+        >{{ include.fees }}/5</span
+      ></span
+    >
+  </div>
+  <div class="mb-2">
+    <span
+      class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"
+      ><i class="fas fa-coins"></i>
+    </span>
+    <strong>Rewards </strong>
+    <span class="ml-2 float-right"
+      ><span>{{ rewards_stars }}</span
+      ><span
+        class="badge {% if include.rewards < 2 %}
+      badge-danger
+    {% endif %}
+    {% if include.rewards >= 2  and include.rewards < 4 %}
+      badge-warning
+    {% endif %}
+    {% if include.rewards >= 4 %}
+      badge-primary
+    {% endif %} ml-2"
+        >{{ include.rewards }}/5</span
+      ></span
+    >
+  </div>
+  <div class="mb-2">
+    <span
+      class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"
+      ><i class="fas fa-clipboard-list"></i>
+    </span>
+    <strong>Features </strong>
+    <span class="ml-2 float-right"
+      ><span>{{ features_stars }}</span
+      ><span
+        class="badge {% if include.features < 2 %}
+      badge-danger
+    {% endif %}
+    {% if include.features >= 2  and include.features < 4 %}
+      badge-warning
+    {% endif %}
+    {% if include.features >= 4 %}
+      badge-primary
+    {% endif %} ml-2"
+        >{{ include.features }}/5</span
+      ></span
+    >
+  </div>
+  <div>
+    <span
+      class="iconbox iconsmall fill rounded-circle bg-danger text-white border-0 mr-2"
+      ><i class="fas fa-bullhorn"></i>
+    </span>
+    <strong>Overall </strong>
+    <span class="ml-2 float-right"
+      ><span>{{ stars }}</span
+      ><span
+        class="badge {% if include.rating < 2 %}
+      badge-danger
+    {% endif %}
+    {% if include.rating >= 2  and include.rating < 4 %}
+      badge-warning
+    {% endif %}
+    {% if include.rating >= 4 %}
+      badge-primary
+    {% endif %} ml-2"
+        >{{ include.rating }}/5</span
+      ></span
+    >
+  </div>
 </div>
 {% if page.product %}
 <script type="application/ld+json">

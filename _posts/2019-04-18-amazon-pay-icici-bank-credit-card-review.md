@@ -21,9 +21,9 @@ You can check the eligibility by visiting [this](https://www.amazon.in/cbcc/mark
 
 There is no joining or renewal fee for this card and this card is issued life time free.
 
-#### Benefits
+#### Rewards
 
-![Amazon Pay ICICI Bank Credit Card Benefits](/assets/images/amazon-pay-icici-bank-credit-card-benefits.jpg#center)
+![Amazon Pay ICICI Bank Credit Card Rewards](/assets/images/amazon-pay-icici-bank-credit-card-rewards.jpg#center)
 
 The different reward rates for this card are outlined below:
 
@@ -33,7 +33,15 @@ The different reward rates for this card are outlined below:
 - **2%** on paying through Amazon Pay at Amazon Pay partner merchants
 - **1%** on all other spends
 
-This card also provides surcharge waiver of 1% on fuel transactions. The best part about this card is absence of upper cap on rewards. The rewards are credited as Amazon Pay balance in Amazon account each month after statement generation.
+The best part about this card is absence of upper cap on rewards. The rewards are credited as Amazon Pay balance in Amazon account each month after statement generation.
+
+#### Features
+
+Given that it's Amazon co-branded card, it's features are pretty much limited to shopping on Amazon. Below are few of them:
+
+- No cost EMI of 3 or 6 months on Amazon.in
+- Surcharge waiver of 1% on fuel transactions
+- 15% discount when dining at restaurants participating in [Culinary Treats](https://www.icicibank.com/offers/brands/culinary-treats.page)
 
 #### Drawbacks
 
@@ -42,13 +50,13 @@ Given that this card has no joining and renewal fee, I don't have great expectat
 - No way to redeem rewards for statement credit
 - No rewards on fuel transactions
 - No rewards for purchasing gold and EMI transactions at Amazon.in
-- Need to have active Amazon Prime membership (Rs. 999 annually) for maximum rewards
+- Amazon Prime membership (Rs. 999 annually) required for maximum benefit
 - No clarity on eligibility/invitation criteria
 
 #### Verdict
 
 5% cash-back on Amazon and 1% elsewhere is really a good offer and no other card in this segment provides equivalent benefits. The simple and seamless integration of rewards with Amazon Pay is another highlight. If you are invited for this card, don't give a second thought and go for it.
 
-{% include star-rating.html rating=4 %}
+{% include star-rating.html rating=3.5 rewards=4.5 fees=5 features=1 %}
 
 _I would say this is the only credit card worth having from ICICI Bank. Your thoughts?_

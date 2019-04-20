@@ -9,8 +9,8 @@ Looking for best credit card in India or wondering the one which is in your wall
 
 I have analysed 100+ credit cards available in India as of today and compiled a list of 15 best credit cards based on various user segments. Note that there is no one card which suites all as spending pattern, income range, willingness to pay joining fee etc. varies from person to person. So without further ado, let's begin!
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 ## Best Lifestyle Credit Cards
 

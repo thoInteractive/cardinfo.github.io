@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Credit Cards for first timers in India
-categories: [Guides]
+categories: [Reviews]
 image: /assets/images/best-credit-cards-for-first-timers-in-india.jpg
 date: 2019-04-27 16:32 +0530
 ---

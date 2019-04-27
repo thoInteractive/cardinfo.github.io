@@ -3,6 +3,7 @@ layout: post
 title: 'Amex: 2X Reward Points on Educational spends'
 categories: [Amex, Card Offers]
 image: /assets/images/amex-2x-reward-points-on-educational-spends.jpg
+tags: [card-offers]
 ---
 
 Amex, in it's latest promotion, is providing 2X reward points on all educational spends. This is a fantastic opportunity to accumulate extra reward points.

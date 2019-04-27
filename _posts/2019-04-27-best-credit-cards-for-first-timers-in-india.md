@@ -4,6 +4,7 @@ title: Best Credit Cards for first timers in India
 categories: [Reviews]
 image: /assets/images/best-credit-cards-for-first-timers-in-india.jpg
 date: 2019-04-27 16:32 +0530
+tags: [featured]
 ---
 
 Many a times I have been asked which credit card is best for someone who has just started his/her career? The main problem for beginners is that they lack credit history and hence banks have very strict norms for issuing them credit cards. Hence I have compiled a list of credit cards which are issued very easily and have minimal joining or renewal fees.

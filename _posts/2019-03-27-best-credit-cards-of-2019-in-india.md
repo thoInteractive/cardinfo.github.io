@@ -3,6 +3,7 @@ layout: post
 title: 'Best Credit Cards of 2019 in India'
 categories: [Reviews]
 image: /assets/images/best-credit-card-india-2019.jpg
+tags: [featured]
 ---
 
 Looking for best credit card in India or wondering the one which is in your wallet is best or or not? Look no further as you have stumbled upon the correct webpage.

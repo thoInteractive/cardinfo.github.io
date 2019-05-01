@@ -3,7 +3,7 @@ layout: post
 title: 'HDFC Smartbuy 10X rewards extended till 30 April 2019'
 categories: [HDFC, Card Offers]
 image: /assets/images/hdfc-smartbuy-10X-rewards.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 HDFC 10X Reward Points program on [Smartbuy](https://offers.smartbuy.hdfcbank.com) portal has been extended till 30 April 2019. This comes as a huge relief as earlier HDFC has announced the reduction of reward rate to 5X. But it seems seeing the backlash of people, they extended it for a month.

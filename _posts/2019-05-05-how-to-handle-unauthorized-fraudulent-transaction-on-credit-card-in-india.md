@@ -88,7 +88,7 @@ After reviewing this, I drafted following response:
 
 <ol>
   <li>
-    <p>Non-existant billing and shipping address: The billing and shipping address is mentioned as below for this transaction:</p>
+    <p>Non-existent billing and shipping address: The billing and shipping address is mentioned as below for this transaction:</p>
 
     <p>23 mangar road
 
@@ -120,7 +120,7 @@ xxxx xxxxx xxxxx, India</p>
     <p>No proof provided about the delivery of product/services availed against the payment: The investigation report produced by you doesn’t provides any detail about the proof of delivery of product and services availed against the payment. The only details available are Seller Name and Seller Email address. No details about business/customer service number is available in your report. Also no tracking number or status is available for this transaction. Can you please produce me the proof of delivery of product/services availed against the payment disputed by me?</p>
   </li>
   <li>
-    <p>Unavailability of ECI 3DS and CVV Response: The investigation report produced by you doesn’t show the ECI 3DS or CVV response. These high security markers are essential to determine the legitimately of the transaction. This particular transaction lacks both these which further raises the authenticity of this transaction.</p>
+    <p>Unavailability of ECI 3DS and CVV Response: The investigation report produced by you doesn’t show the ECI 3DS or CVV response. These high security markers are essential to determine the authenticity of the transaction. This particular transaction lacks both these which further raises the suspicion on authenticity of this transaction.</p>
   </li>
   <li>
     <p>IP used for transaction is belongs to region where I was not present on the date transaction was carried out: The IP used for transaction is 117.201.86.21 which belongs to Uttarakhand, Dehradun 248001, India. On this date I was in xxxxxx not Dehradun. If I am not present at that location, how could I carry out the transaction?</p>
@@ -136,4 +136,4 @@ After providing this response, the temporary credit was restored again and I was
 
 The whole ordeal lasted for 4.5 months and I can't express the mental stress and agony I went through. However at the end, the case settled in my favor leaving me with yet another unique experience.
 
-_Have you ever disputed a transaction? How was your experience and how much time did it take to resolve? Let me know in comments._
+_Have you ever disputed a card transaction? How was your experience and how much time did it take to resolve? Let me know in comments._

@@ -7,7 +7,7 @@ image: /assets/images/credit-card-fraud.jpg
 tags: [featured]
 ---
 
-With increase is use of credit cards in India, the cases of unauthorized / fraudulent transactions are also increasing at alarming rate. Though banks provide security measures like one time password (OTP) to authorize the online transactions, international websites can charge your card without OTP. Thus, if someone gets hold of your credit card information, they can very well use the card on international websites.
+With increase in usage of credit cards in India, the cases of unauthorized / fraudulent transactions are also increasing at alarming rate. Though banks provide security measures like one time password (OTP) to authorize the online transactions, international websites can charge your card without OTP. Thus, if someone gets hold of your credit card information, they can very well use the card on international websites.
 
 In this article I'll outline the liability of a customer in case of fraudulent transactions, steps to follow immediately after becoming aware of such transactions, finally followed my personal experience of dealing with one such fraudulent transaction on one of my credit cards.
 

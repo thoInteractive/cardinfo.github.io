@@ -839,6 +839,11 @@ img[src*='#center'] {
   display: block;
   margin: auto;
 }
+img[src*='#cc-center'] {
+  display: block;
+  margin: auto;
+  border-radius: 1rem;
+}
 .post-element {
   font-family: 'Segoe UI', 'Helvetica Neue', 'Arial';
 }
@@ -860,4 +865,11 @@ img[src*='#center'] {
   margin-right: auto;
   margin-bottom: 2rem;
   font-family: 'Segoe UI', 'Helvetica Neue', 'Arial';
+}
+.quote {
+  font-family: 'Segoe UI', 'Helvetica Neue', 'Arial';
+  font-size: 1rem;
+}
+.quote p {
+  margin-bottom: 1rem;
 }

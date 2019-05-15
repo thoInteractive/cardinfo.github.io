@@ -2,7 +2,7 @@
 layout: post
 title: Paytm launches Paytm First Credit Card in India
 date: 2019-05-14 19:45 +0530
-categories: [News]
+categories: [News, Citi]
 image: /assets/images/paytm-first-credit-card-launched.jpg
 tags: []
 ---

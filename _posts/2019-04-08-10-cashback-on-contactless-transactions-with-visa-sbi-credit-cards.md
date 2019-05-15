@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '10% Cashback on contact less transactions with Visa SBI Credit Cards'
-categories: [SBI, Card Offers]
+categories: [SBI Card, Card Offers]
 image: /assets/images/sbi-visa-contact-less-transaction-offer.jpg
 tags: [card-offers]
 ---

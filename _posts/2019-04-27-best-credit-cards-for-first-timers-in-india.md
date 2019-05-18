@@ -29,7 +29,7 @@ Standard Chartered Manhattan Credit Card provides 5% cashback on grocery spends 
 
 ### Citi Cashback Credit Card
 
-![Citi Cashback Credit Card](/assets/images/citi-cashback-credit-card.jpg#cc-center)
+![Citi Cashback Credit Card](/assets/images/citi-cashback-credit-card-new.jpg#cc-center)
 
 If you love cashback then this card is for you. Citi Cashback Credit Card provides cashback for all spends which are automatically credited to your statement.
 

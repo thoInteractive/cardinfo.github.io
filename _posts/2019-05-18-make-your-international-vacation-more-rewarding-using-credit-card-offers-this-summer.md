@@ -12,6 +12,25 @@ Are you wondering which credit card is best for your international transactions 
 * TOC
 {:toc}
 
+### American Express Cards
+
+Amex is providing Paytm movie vouchers of Rs. 2,000 on spending Rs. 20,000 or more overseas.
+
+- **Offer**: Paytm Movie Vouchers worth Rs. 2,000
+- **Period**: 20 May 2019 to 31 July 2019
+- **Maximum Voucher**: Rs. 2,000
+- **Minimum Spend**: Rs. 20,000
+- **Type**: Targeted, applicable only if you received email from Amex, register [here](https://iforms.americanexpress.com/iFormsSecure/un/iforms.do?cuid=enrollment_en_IN&evtsrc=link&evttype=0&genCode=&campaignId=Overseas%20Spends%20Offer%20-%20Rs.%202,000%20Paytm%20Movie%20Vouchers&TermsCondition=http://amex.kapsadvertising.in/OverseasCampaign2Kvoucher/terms_and_conditions.pdf)
+- **Fulfillment**: Vouchers will be sent to eligible Cardmembers on their registered email addresses by September 30, 2019
+- **Source**: [Website](https://amex.kapsadvertising.in/OverseasCampaign2Kvoucher/terms_and_conditions.pdf)
+
+This offer translates to 10% reward rate which is quite good. Note that Amex charges 3.5% (plus 18% GST) as foreign currency markup charges which reduces the overall rate of return.
+
+**PS:** If you don't have Amex, you can apply via my referral link below. Signing up using this link will give you card **free** for first year and **2000** extra referral bonus reward points in addition to **2000** bonus reward points which is not available otherwise.
+
+<a href="http://amex.in/refer/pranap9yzB?CPID=999999544" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2"><i class="fas fa-pen"></i> Apply Now</a>
+
+
 ### HDFC Bank Credit Card
 
 HDFC is running multiple offers on their credit and debit cards for international spends.

@@ -3,7 +3,7 @@ layout: post
 title: '10% Cashback on contact less transactions with Visa SBI Credit Cards'
 categories: [SBI Card, Card Offers]
 image: /assets/images/sbi-visa-contact-less-transaction-offer.jpg
-tags: [card-offers]
+tags: [expired]
 ---
 
 Visa, in order to push for contact less payments, has partnered up with SBI to provide 10% cashback on all contact less transactions done on POS machines.

@@ -31,7 +31,7 @@ This offer translates to 10% reward rate which is quite good. Note that Amex cha
 <a href="http://amex.in/refer/pranap9yzB?CPID=999999544" target="_blank" class="btn btn-lg btn-danger btn-block post-element mt-2"><i class="fas fa-pen"></i> Apply Now</a>
 
 
-### HDFC Bank Credit Card
+### HDFC Bank Credit Cards
 
 HDFC is running multiple offers on their credit and debit cards for international spends.
 
@@ -122,7 +122,7 @@ For debit card, this offer translates in to meager 1%.
   There are many more offers running on HDFC Forex cards, don't forget to check them <a style="color: #fff; text-decoration: underline" href="https://www.hdfcbank.com/personal/products/cards/forex-cards/multicurrency-forexplus-card/offers">here</a>.
 </div>
 
-### HDFC Bank Debit Card
+### HDFC Bank Debit Cards
 
 HDFC Bank is providing Rs. 1000 cash-back on cumulative international spends of Rs. 25000.
 
@@ -147,7 +147,7 @@ Yes Bank is providing 10% cash-back on all international dining spends using the
 
 Though a maximum cap of Rs. 1000 is little disappointing, I feel expenditure of Rs. 10,000 on dining would suffice most budget travelers. Also note that Yes Bank Exclusive credit card has lower foreign currency markup of 1.75% (plus 18% GST) compared with other credit cards in market which charge around 3.5%. Also, if you hold Yes First Exclusive Card, you will get 3% reward points on dining category. Hence the net rate of return boils down to **11%** (10% cash-back - 2% foreign currency markup + 3% reward points) which is quite awesome.
 
-### RBL Bank Credit Card
+### RBL Bank Credit Cards
 
 RBL Bank is waiving off entire transaction charges on international purchases.
 
@@ -160,7 +160,7 @@ RBL Bank is waiving off entire transaction charges on international purchases.
 
 Given that credit cards normally charge foreign currency markup of 3.5% (plus 18% GST), this offer saves you **4.13%** and no upper limit is cherry on top. Also you continue to earn normal reward points on your card.
 
-### Kotak Credit Card
+### Kotak Credit Cards
 
 Kotak Mahindra bank is providing 5% cash-back on all international spends.
 
@@ -174,7 +174,7 @@ Kotak Mahindra bank is providing 5% cash-back on all international spends.
 
 Well minimum spend of Rs. 50,000 or more in a single bill is a bummer. Also you need to shell out the foreign currency markup fee of up to 3.5% (plus 18% GST) which makes this offer even less enticing.
 
-### IndusInd Bank Credit Card
+### IndusInd Bank Credit Cards
 
 IndusInd Bank is providing Flipkart vouchers worth Rs. 1000 when you spend Rs. 50,000 or more on travel category (Airlines, Railways & Hotel).
 

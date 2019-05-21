@@ -56,6 +56,7 @@ SBI Simply Click provides 2.5% back on online spends with their exclusive partne
   - 2.5% back on online spends with exclusive partners - Amazon, BookMyShow, Cleartrip, Foodpanda, Lenskart, Netmeds, Rentomojo & UrbanClap
   - 1.25% on other online spends
   - 0.25% on offline spends
+- 1% fuel surcharge waiver for each transaction between Rs. 500 & Rs. 3,000
 - Apply [here](https://www.sbicard.com/en/eapply/eapplyform.page?path=personal/credit-cards/shopping/simplyclick-sbi-card.dcr)
 
 ### HSBC Platinum Credit Card

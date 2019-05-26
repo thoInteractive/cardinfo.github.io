@@ -1,6 +1,8 @@
 ---
 title: 'Contact'
 permalink: '/contact'
+description: Fill this form to send message to CardInfo. All messages will be replied as soon as possible.
+comments: false
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    
